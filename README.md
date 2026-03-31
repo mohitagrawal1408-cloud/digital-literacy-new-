@@ -1,8 +1,11 @@
 # CSE0001 - Digital Literacy Project Portfolio
 
 **Student Name:** Mohit Agrawal
+
 **Registration Number:** 25BCE10672
-**Branch:** Computer Science and Engineering (CSE)  
+
+**Branch:** Computer Science and Engineering (CSE) 
+
 **Institution:** VIT Bhopal University  
 
 ## Project Overview
